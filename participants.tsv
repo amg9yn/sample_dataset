@@ -1,6 +1,6 @@
-participant_id	age	sex	handedness
-sub-01	22	F	left
-sub-02	26	F	right
-sub-03	21	M	right
-sub-04	22	M	right
-sub-05	27	F	right
+participant_id	age	sex handedness  MOCA
+sub-01	22	F left  29
+sub-02	26	F	right 28
+sub-03	21	M	right 27
+sub-04	22	M	right 26
+sub-05	27	F	right 27
